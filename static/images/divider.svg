@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  x="0px" y="0px"
+  viewBox="0 0 512 512"
+  style="background-color: #fff;"
+  width="512" height="512" preserveAspectRatio="none">
+  <style>
+    path {
+      fill: white;
+      stroke-width: 1px;
+      stroke: rgba(0,0,0,0.681);
+      stroke-linecap:round;
+      vector-effect: non-scaling-stroke;
+    }
+  </style>
+  <path d="M-8,400l264-288 M520,400L256,112" />
+</svg>
